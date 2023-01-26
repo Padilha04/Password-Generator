@@ -24,7 +24,7 @@ This is a project of a Password Generator, created with HTML, CSS and Javascript
 
 ### 🔗 Links
 
-- Solution URL: [GitHub Repository](https://github.com/Padilha04/qrcode-challenge)
+- Solution URL: [GitHub Repository](https://github.com/Padilha04/Password-Generator)
 - Live Site URL: [GitHub Page](https://padilha04.github.io/qrcode-challenge/)
 
 ---
